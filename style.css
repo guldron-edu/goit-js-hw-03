@@ -1,0 +1,11 @@
+.container {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.main-title {
+  text-align: center;
+}
+
+.secondary-title {
+  padding-left: 30px;
+}
